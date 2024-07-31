@@ -1,4 +1,4 @@
-# Starbucks Satisfaction Survey - PYTHON
+# Starbucks Satisfaction Survey Analysis - PYTHON
 ## 1. Introduction
   This project focuses on analyzing customer perceptions of Starbucks, one of the largest coffeehouse chains in the world, headquartered in Washington, USA. Established in 1971, Starbucks has gained recognition for its product quality and services, classifying it as a premium coffeehouse chain. To understand customer experiences and determine if Starbucks provides the value expected for an average price of $2.75-$3 per drink, we analyzed survey data from 122 Starbucks customers in Malaysia.
 
